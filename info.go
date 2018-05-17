@@ -11,7 +11,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/bsm/redeo/info"
+	"github.com/johntech-o/redeo/info"
 )
 
 // CommandDescription describes supported commands
