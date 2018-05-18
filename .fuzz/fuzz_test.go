@@ -6,9 +6,9 @@ import (
 	"sync"
 	"testing"
 
-	"github.com/bsm/redeo"
-	"github.com/bsm/redeo/resp"
 	"github.com/go-redis/redis"
+	"github.com/johntech-o/redeo"
+	"github.com/johntech-o/redeo/resp"
 )
 
 func TestFuzz(t *testing.T) {

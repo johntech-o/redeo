@@ -5,7 +5,7 @@ import (
 	"log"
 	"net"
 
-	"github.com/bsm/redeo"
+	"github.com/johntech-o/redeo"
 )
 
 var flags struct {

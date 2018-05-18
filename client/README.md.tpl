@@ -11,7 +11,7 @@ import (
   "fmt"
   "strings"
 
-  "github.com/bsm/redeo/client"
+  "github.com/johntech-o/redeo/client"
 )
 
 func main() {{ "ExamplePool" | code }}

@@ -6,7 +6,7 @@ import (
 	"net"
 	"strings"
 
-	"github.com/bsm/redeo/resp"
+	"github.com/johntech-o/redeo/resp"
 )
 
 func Example_client() {
